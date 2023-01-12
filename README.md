@@ -1,5 +1,5 @@
 # SE Mini Project
-## Visualization of Sorting Algorithm
+## Visualization of Sorting Algorithms
 
 ### Introduction
 
@@ -17,7 +17,15 @@ organizes a compilation of items into a specific request
 
 ### User Interface
 
-<img width="905" alt="2023-01-12 (7)" src="https://user-images.githubusercontent.com/111975032/212058542-50e28e12-096e-44ba-85d0-a8b60d4bf8b6.png">
+#### Before Sorting 
+
+<img width="905" alt="2023-01-12 (7)" src="https://user-images.githubusercontent.com/111975032/212058542-50e28e12-096e-44ba-85d0-a8b60d4bf8b6.png" >
+
+#### After Sorting 
+
+<img width="894" alt="2023-01-12 (10)" src="https://user-images.githubusercontent.com/111975032/212062964-5b46fde1-ac37-4d94-9bef-23c9aae08a0e.png">
+
+
 
 ### Authors
 
@@ -26,8 +34,6 @@ organizes a compilation of items into a specific request
 - [@SiddhantKodolkar](https://www.github.com/SiddhantKodolkar)
 - [@Harsh Karira](https://www.github.com/harshkarira)
 - [@Sachin Choudhary](https://www.github.com/Sach-123)
-
-
 
 ### Reference Papers:
 
