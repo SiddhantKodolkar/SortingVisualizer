@@ -20,6 +20,9 @@ organizes a compilation of items into a specific request
 <img width="905" alt="2023-01-12 (7)" src="https://user-images.githubusercontent.com/111975032/212058542-50e28e12-096e-44ba-85d0-a8b60d4bf8b6.png">
 
 ### Authors
+
+<img width="912" alt="2023-01-12 (9)" src="https://user-images.githubusercontent.com/111975032/212059470-aeae47ea-70d6-4c7d-8cc8-fc8e87d92378.png">
+
 - [@SiddhantKodolkar](https://www.github.com/SiddhantKodolkar)
 - [@Harsh Karira](https://www.github.com/harshkarira)
 - [@Sachin Choudhary](https://www.github.com/Sach-123)
