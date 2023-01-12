@@ -15,6 +15,10 @@ organizes a compilation of items into a specific request
 ● It mainly aims to simplify and deepen the understanding of algorithm operations
 
 
+### User Interface
+
+<img width="905" alt="2023-01-12 (7)" src="https://user-images.githubusercontent.com/111975032/212058542-50e28e12-096e-44ba-85d0-a8b60d4bf8b6.png">
+
 ### Authors
 - [@SiddhantKodolkar](https://www.github.com/SiddhantKodolkar)
 - [@Harsh Karira](https://www.github.com/harshkarira)
