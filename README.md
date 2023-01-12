@@ -23,7 +23,7 @@ organizes a compilation of items into a specific request
 
 #### After Sorting 
 
-<img width="894" alt="2023-01-12 (10)" src="https://user-images.githubusercontent.com/111975032/212062964-5b46fde1-ac37-4d94-9bef-23c9aae08a0e.png">
+<img width="905" alt="2023-01-12 (10)" src="https://user-images.githubusercontent.com/111975032/212062964-5b46fde1-ac37-4d94-9bef-23c9aae08a0e.png">
 
 
 
