@@ -26,6 +26,16 @@ organizes a compilation of items into a specific request
 <img width="905" alt="2023-01-12 (10)" src="https://user-images.githubusercontent.com/111975032/212062964-5b46fde1-ac37-4d94-9bef-23c9aae08a0e.png">
 
 
+The input is generated randomly ,the user has to select any of the sorting algorithms:
+
+1)Bubble Sort: Swaps adjacent elements if they are in the wrong order,the algorithm needs one whole pass without any swaps to know if the array is sorted.
+
+2)Selection Sort:Sort by repeatedly finding the minimum element and putting it at the beginning. It Maintains two arrays:sorted and unsorted arrays.In every iteration,the minimum element is pickedand moved to the sorted array
+
+3)Merge Sort:It uses divide and conquer algorithm.Divide input array into two halves,it divides the input array into two halves and and merges the two halves 
+
+4)Insertion Sort:The algorithm splits the array into sorted and unsorted part,values from the unsorted part are picked and placed at the correct position in the sorted part.
+
 
 ### Authors
 
