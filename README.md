@@ -13,3 +13,8 @@ organizes a compilation of items into a specific request
 ● Algorithm visualization illustrates how algorithms work in a graphical way
 
 ● It mainly aims to simplify and deepen the understanding of algorithm operations
+
+## Reference Papers:
+
+ - [The Development of System For Algorithms Visualization using SIMJAVA](https://www.researchgate.net/publication/349251352_THE_DEVELOPMENT_OF_SYSTEM_FOR_ALGORITHMS_VISUALIZATION_USING_SIMJAVA)
+ - 
