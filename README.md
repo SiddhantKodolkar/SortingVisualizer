@@ -17,4 +17,6 @@ organizes a compilation of items into a specific request
 ## Reference Papers:
 
  - [The Development of System For Algorithms Visualization using SIMJAVA](https://www.researchgate.net/publication/349251352_THE_DEVELOPMENT_OF_SYSTEM_FOR_ALGORITHMS_VISUALIZATION_USING_SIMJAVA)
- - 
+ - [ Algorithm Visualizer](https://easychair.org/publications/preprint/tw6K)
+ - [ Visualizing Sorting Algorithms](https://digitalcommons.ric.edu/cgi/viewcontent.cgi?article=1129&context=honors_projects)
+ 
